@@ -1,0 +1,17 @@
+[
+
+    {
+        "id" : 1,
+        "tittle" : "Badan Eksekutif Mahasiswa",
+        "type" : "Eksekutif",
+        "desc" : "BEM adalah salah satu organisasi mahasiswa yang umumnya ada di banyak perguruan tinggi dan universitas di Indonesia dan negara lain. BEM wadah yang mewakili mahasiswa dalam lingkup universitas atau kampus tertentu."
+    },
+    {
+        "id" : 2,
+        "tittle" : "Majelis Permusyawaratan Mahasiswa",
+        "type" : "Legislatif",
+        "desc" : "BEM adalah salah satu organisasi mahasiswa yang umumnya ada di banyak perguruan tinggi dan universitas di Indonesia dan negara lain. BEM wadah yang mewakili mahasiswa dalam lingkup universitas atau kampus tertentu."
+    }
+
+    
+]

@@ -6,19 +6,21 @@ import Aos from 'aos'
 import Footer from '../components/Footer'
 import HmjCard from '../components/HmjCard'
 import UkmCard from '../components/UkmCard'
+import ContentOrg from '../components/ContentOrg'
 
 
 
 function Organisasi() {
     Aos.init();
     return (
-        <div className='bg-[#222831] w-full h-[4000px]'>
+        <div className='bg-[#222831] w-full h-fit'>
             <Navbar />
             <HeroOrganisasi />
-            <Elcard />
+            <ContentOrg />
+            {/* <Elcard />
             <HmjCard />
             <UkmCard />
-            {/* <Footer /> */}
+            <Footer /> */}
 
 
 

@@ -6,7 +6,7 @@ function App() {
 
   return (
 
-    <div className='min-h-screen w-full font-poppins '>
+    <div className='w-full h-fit font-poppins '>
       {/* <Landing /> */}
       <Organisasi />
 
